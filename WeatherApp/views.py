@@ -17,7 +17,7 @@ def get_weather_data(city, api_key):
 def index(request):
     weather_data = None
     error_message = None
-    api_key = '63dbdb9d6b45b392e622155ec5ad7d91'  # Replace with your OpenWeather API key
+    api_key = '####################'  # Replace with your OpenWeather API key
 
     # Fetch predefined cities from the database
     predefined_cities = PredefinedCity.objects.all()
