@@ -1,9 +1,7 @@
 # ClimaVibe-WeatherApp-Django
 ![image](https://github.com/user-attachments/assets/d4192b17-329e-4e5a-8b54-8ac1f830bbfa)
 
-![image](https://github.com/user-attachments/assets/1beb72f7-bc82-4f52-ac8a-3a0748565cdc)
-
-# ClimaVibe
+![image](https://github.com/user-attachments/assets/8fe66c73-167d-48b1-a5fa-089257215145)
 
 **ClimaVibe** is a Django-based weather application that provides real-time weather information for predefined cities as well as any city entered by the user. The app uses the OpenWeather API to fetch weather data such as temperature, weather description, and corresponding weather icons.
 
