@@ -25,8 +25,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ClimaVibe.git
-   cd ClimaVibe
+   git clone https://github.com/Himel-Sarder/ClimaVibe-WeatherApp-Django.git
    ```
 
 2. **Install Dependencies**:
